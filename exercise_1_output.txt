@@ -1,0 +1,15 @@
+Que is empty (Should be empty).Adding '45'.
+Printing que: <45,>
+Add was successful.
+Add was successful.
+Added 44,43 to left; 
+ Added 46,47 to right; 
+ Printing que: <43,44,45,46,47,>
+Printing left member:43
+Printing right member: 47
+Checking to see if que is empty.
+Que is not empty. (Should not be empty.)
+Creating empty que.
+New que is empty. (Should be empty.)
+Remove Left has Failed for empty que.
+Remove Right has Failed for empty que.
